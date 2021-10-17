@@ -11,6 +11,9 @@ options = {
   isReplayEnabled: true,
   seed: 2,
   theme: "crt",
+  isCapturing: true,
+  isCapturingGameCanvasOnly: true,
+  captureCanvasScale: 2
   //viewSize: { x: 150, y: 150 },
 };
 
